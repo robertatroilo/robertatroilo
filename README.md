@@ -7,9 +7,9 @@ I'm Roberta and I'm about to graduate in Mathematical Engineering - Statistical 
 - Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
 📊 Projects:
-- [Modelling historical landslide occurrences in Hong Kong through Bayesian statistical analysis] (https://github.com/robertatroilo/BS_project)
-- [Pricing of products on an e-commerce website through online learning techniques for reward optimization] (https://github.com/aygalic/OLA_Project)
-- [Genome-based prediction of breast cancer cell response] (https://github.com/aygalic/AS_Project_2022/tree/main)
+- [Modelling historical landslide occurrences in Hong Kong through Bayesian statistical analysis](https://github.com/robertatroilo/BS_project)
+- [Pricing of products on an e-commerce website through online learning techniques for reward optimization](https://github.com/aygalic/OLA_Project)
+- [Genome-based prediction of breast cancer cell response](https://github.com/aygalic/AS_Project_2022/tree/main)
 - and more to be added soon!
 
 📞 Contacts:
