@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**robertatroilo/robertatroilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roberta and I'm about to graduate in Mathematical Engineering - Statistical Learning at Politecnico di Milano. Here you can find some useful information about me!
 
-Here are some ideas to get you started:
+👩‍🎓 Education:
+- Master of Science in Mathematical Engineering - Statistical Learning at Politecnico di Milano
+- Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects:
+- [Modelling historical landslide occurrences in Hong Kong through Bayesian statistical analysis] (https://github.com/robertatroilo/BS_project)
+- [Pricing of products on an e-commerce website through online learning techniques for reward optimization] (https://github.com/aygalic/OLA_Project)
+- [Genome-based prediction of breast cancer cell response] (https://github.com/aygalic/AS_Project_2022/tree/main)
+- and more to be added soon!
+
+📞 Contacts:
+- www.linkedin.com/in/roberta-troilo-731413209
+- robertatroilo99@gmail.com
+
+ <!--- add stuff about me, what i like ecc... --->
