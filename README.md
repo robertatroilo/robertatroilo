@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roberta and I'm about to graduate in Mathematical Engineering - Statistical Learning at Politecnico di Milano. Here you can find some useful information about me!
+I'm Roberta and I recently graduated in Mathematical Engineering - Statistical Learning at Politecnico di Milano in April 2024. I'm currently working as a Research Fellow in Data Science at Politecnico di Milano. Here you can find some useful information about me!
 
 👩‍🎓 Education:
 - Master of Science in Mathematical Engineering - Statistical Learning at Politecnico di Milano
